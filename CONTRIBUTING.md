@@ -75,7 +75,6 @@ to determine if your fork is current.
    - If your fork is not current,
 use the **Fetch and merge** button to sync it.
 
-
 ## Install Hugo to build the docs locally
 
 1. Install the extended version of [Hugo](http://gohugo.io) in [Version 0.53](https://github.com/gohugoio/hugo/releases/tag/v0.53) (see [netlify.toml](netlify.toml) - `HUGO_VERSION = "0.53"`). 
