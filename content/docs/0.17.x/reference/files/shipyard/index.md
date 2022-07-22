@@ -344,6 +344,7 @@ to allow `stage`s to be added to and removed from a *shipyard* in an existing pr
 
 * [Working with shipyard files](../../../manage/shipyard)
 * [Multi-stage delivery](../../../continuous_delivery/multi_stage)
+* [Quality gates](../../../quality_gates)
 * [Triggers](../../../manage/triggers)
 * [Remediation Config](../remediation)
 
