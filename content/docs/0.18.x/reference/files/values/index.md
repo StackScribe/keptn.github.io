@@ -27,13 +27,13 @@ so can be used to temporarily override a value when necessary.
 
 ## Files
 
-* Default [values.yaml](https://github.com/keptn/keptn/blob/master/installer/manifests/keptn/values.yaml0) file
+* Default [values.yaml](https://github.com/keptn/keptn/blob/master/installer/manifests/keptn/values.yaml) file
 
 ## Differences between versions
 
 **Keptn 0.17.0 changes**
 
-Keptn Helm chart was refactored heavily in Release 0.18.0
+Keptn Helm chart was refactored heavily in Release 0.17.0
 to make it ready for future features and structural changes.
 
 - The following Helm values changed for the Control Plane Helm chart:
